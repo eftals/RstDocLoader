@@ -1,0 +1,6 @@
+{
+"username": "eftal@yahoo.com",
+"password": "eftal",
+"folder": "/Users/eftal/BWDocUpload/tmp/",
+"name": "mathstuff.pdf"
+}

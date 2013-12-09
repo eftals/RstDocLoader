@@ -1,0 +1,25 @@
+{
+  "name": "BWDocLoader",
+  "version": "0.1.0",
+  "description": "BWDocLoader",
+  "main": "hello-world-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "dependencies": {	
+	"mongoose": "*",
+	"crypto": "*",
+	"formidable":"*",
+	"fs-extra":"*",
+	"util":"*",
+    "restify": "*"
+  },
+  "keywords": [
+    "Node.js",
+    "Eclipse",
+    "Nodeclipse"
+  ],
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {}
+}
